@@ -10,6 +10,12 @@ HOW TO USE S
 
 VERSIONS (latest to earliest)
 -----
+CanvasDev 1.0 (9/30/2019)
+- new Context function for canvas (in development)
+
+Unreleased 1.0.2 (9/30/2019)
+- new stuff
+
 Unreleased 1.0.1 (9/30/2019)
 - slight changes and additional functions
 
