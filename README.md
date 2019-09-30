@@ -12,5 +12,6 @@ VERSIONS (latest to earliest)
 -----
 Unreleased 1.0.1 (9/30/2019)
 - slight changes and additional functions
+
 Unreleased 1.0 (9/30/2019)
 - basics
